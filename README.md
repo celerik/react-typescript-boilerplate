@@ -14,6 +14,7 @@ _@celerik/react-typescript-boilerplate_ provides a code baseline for creating we
 
 ## What is included
 
+- [Material ui](https://material-ui.com/getting-started/usage/)
 - TypeScript support
 - Eslint + Prettier Rules
 
@@ -25,6 +26,10 @@ _@celerik/react-typescript-boilerplate_ provides a code baseline for creating we
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Theming with Material-ui
+
+You can change the default colors and parameters of Material-ui to do so you have to edit the file _styles/material-ui.ts_. For more details see [here](https://material-ui.com/customization/theming/).
 
 ## Quick start
 
