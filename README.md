@@ -14,8 +14,10 @@ _@celerik/react-typescript-boilerplate_ provides a code baseline for creating we
 
 ## What is included
 
-- TypeScript support
-- Eslint + Prettier Rules
+- [CRACO](https://github.com/gsoft-inc/craco) (Create React App Configuration Override).
+- [Ant design](https://ant.design/components/overview/).
+- TypeScript support.
+- Eslint + Prettier Rules.
 
 ## Requirements
 
@@ -25,6 +27,10 @@ _@celerik/react-typescript-boilerplate_ provides a code baseline for creating we
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Antd Theming
+
+To modify the antd variables, you must modify the _antd.customize.less_ file. To see the complete list of variables see [here](https://github.com/ant-design/ant-design/blob/master/components/style/themes/default.less).
 
 ## Quick start
 
