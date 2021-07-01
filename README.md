@@ -1,6 +1,42 @@
+<div align="center" markdown="1">
+
+<img src="https://celerik.com/wp-content/uploads/2019/12/celerik-1.svg" alt="Celerik" width="300">
+
+# React + Typescript template
+
+<br>
+
+</div>
+
+## What's it
+
+_@celerik/react-typescript-boilerplate_ provides a code baseline for creating web applications based on React framework, the set of tools included on this project defines a group of rules, linter conventions and a default tool for creating new components.
+
+## What is included
+
+- TypeScript support
+- Eslint + Prettier Rules
+
+## Requirements
+
+- NodeJs >= 14.x
+- A javascript package manager such as Npm or Yarn (Yarn preferred)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Quick start
+
+- Download this template [here](https://github.com/celerik/react-typescript-boilerplate/archive/refs/heads/main.zip)
+- Extract it and rename the folder with your project's name
+- Modify package.json to match your app name
+
+```
+cd "folder name"
+yarn install
+yarn start
+```
 
 ## Available Scripts
 
@@ -39,8 +75,20 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-## Learn More
+# Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+# API and examples
+
+- Check out tutorials on Celerik's blog [here](http://celerik.com).
+
+# License
+
+_@celerik/ionic-react-boilerplate_ is licensed under the [MIT license](LICENSE).
+
+# How to contribute
+
+TODO: Check out the contributing guide [here](CONTRIBUTING.md).
